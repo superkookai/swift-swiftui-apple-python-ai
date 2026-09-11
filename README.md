@@ -196,6 +196,8 @@
 3. **FreeStandingMacros** Example with `SymbolValidator using NSImage` then add macros SPM to project. [SymbolValidator](https://github.com/superkookai/SymbolValidator), [MacroTest](https://github.com/superkookai/MacroTest), refer to this [PracticalMacros](https://github.com/superkookai/PracticalMacros) for `FreeStandingMacro` and `AttachedMacro`
 4. **SwiftUI17** - `ContentUnavailable`, `ScrollView`, `scrollTargetBehavior`, `scrollTargetLayout`, `contentMargins`, `containerRelativeFrame`, `scrollTransition`, `scrollIndicatorsFlash(onAppear:)`, `scrollIndicatorsFlash(trigger:)`, `sensoryFeedback`, `symbolEffect`, `contentTransition`, `symbolRenderingMode`, `symbolEffect work on ToolbarItem` [SanboxSwiftUI17](https://github.com/superkookai/SandBoxSwiftUI17)
 
+- **CameraFromAV** [CameraFromAV](https://github.com/superkookai/CameraFromAV)
+
 # Python FastAPI and AI
 
 - **MoneyTransactionsFastAPI** - FastAPI => `auth`, `routers`, `database Sqlalchemy with Sqlite, Postgres, MySQL`, `Encryption`  [MoneyTransactionsFastAPI](https://github.com/superkookai/MoneyTransactionsFastAPI)

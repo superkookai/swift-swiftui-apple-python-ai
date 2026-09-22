@@ -197,7 +197,8 @@
 4. **SwiftUI17** - `ContentUnavailable`, `ScrollView`, `scrollTargetBehavior`, `scrollTargetLayout`, `contentMargins`, `containerRelativeFrame`, `scrollTransition`, `scrollIndicatorsFlash(onAppear:)`, `scrollIndicatorsFlash(trigger:)`, `sensoryFeedback`, `symbolEffect`, `contentTransition`, `symbolRenderingMode`, `symbolEffect work on ToolbarItem` [SanboxSwiftUI17](https://github.com/superkookai/SandBoxSwiftUI17)
 
 - **CameraFromAV** [CameraFromAV](https://github.com/superkookai/CameraFromAV)
-- **AppleMusicLikeDetailView** [AppleMusicLikeDetailView](https://github.com/superkookai/AppleMusicLikeDetailView) Extract color from image to use as background color or Using image blur as the background => or [ReusableArtworkBackgroundWithCache](https://github.com/superkookai/ReusableArtworkBackgroundWithCache) with `actor` to `cache` background 
+- **AppleMusicLikeDetailView** [AppleMusicLikeDetailView](https://github.com/superkookai/AppleMusicLikeDetailView) Extract color from image to use as background color or Using image blur as the background => or [ReusableArtworkBackgroundWithCache](https://github.com/superkookai/ReusableArtworkBackgroundWithCache) with `actor` to `cache` background
+- **AlertNConfirmation** Stewart Lynch iOS27 Alert and ConfirmationDialog [AlertNConfirmation](https://github.com/superkookai/AlertsNConfirmation-StarterProject)
 
 # Python FastAPI and AI
 

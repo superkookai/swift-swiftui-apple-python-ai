@@ -202,6 +202,7 @@
 - **Questionable** HWS+ `FoundationModels with PCC/On-Device`, make `AI-Service` for using PCC over on device, generate any Generable type, `@Generable`, `@Guide`, do some refinements generating before Quiz Question generating, save to `SwiftData`, create QuizView using QuizAttempt to wrap SavedQuiz on SwiftData, `NavigationStack with path`, `swipeAction+swipeActionsContainer`, `onDelete`, `interactiveDismissDisabled`=>prevent user dismissal eg. sheet, `accessibilityLabel`, edit `Scheme Options to simulate FoundationModels availability` [Questionable](https://github.com/superkookai/Questionable)
 - **TryImageClassificationFoundationModels** On-Device model [TryImageClassificationFoundationModels](https://github.com/superkookai/TryImageClassificationFoundationModels)
 - **KeyChainSwiftUI** Noah using `KeyChain` in SwiftUI (created @propertywrapper) [KeyChainSwiftUI](https://github.com/superkookai/KeyChainSwiftUI)
+- **CustomTabView** Stewart Lynch [CustomTabView](https://github.com/superkookai/EnumTabViews-CustomTabBars-EnumTabViewsComplete)
 
 # Python FastAPI and AI
 

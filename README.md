@@ -203,6 +203,7 @@
 - **TryImageClassificationFoundationModels** On-Device model [TryImageClassificationFoundationModels](https://github.com/superkookai/TryImageClassificationFoundationModels)
 - **KeyChainSwiftUI** Noah using `KeyChain` in SwiftUI (created @propertywrapper) [KeyChainSwiftUI](https://github.com/superkookai/KeyChainSwiftUI)
 - **CustomTabView** Stewart Lynch [CustomTabView](https://github.com/superkookai/EnumTabViews-CustomTabBars-EnumTabViewsComplete)
+- **Beatit** HWS+ `MusicUnderstanding`, `Timeline(.animation(paused:))`, `Canvas`, `fileImporter`, `@FocusState`, `focusable`, `focused`, `focusEffectDisabled`, `onKeyPress`, `NSEvent.addLocalMonitorForEvents(matching:)`, `url.startAccessingSecurityScopedResource()`, `url.stopAccessingSecurityScopedResource()`, `AVURLAsset`, `AVAudioPlayer` [Beatit](https://github.com/superkookai/Beatit)
 
 # Python FastAPI and AI
 

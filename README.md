@@ -204,6 +204,7 @@
 - **KeyChainSwiftUI** Noah using `KeyChain` in SwiftUI (created @propertywrapper) [KeyChainSwiftUI](https://github.com/superkookai/KeyChainSwiftUI)
 - **CustomTabView** Stewart Lynch [CustomTabView](https://github.com/superkookai/EnumTabViews-CustomTabBars-EnumTabViewsComplete)
 - **Beatit** HWS+ `MusicUnderstanding`, `Timeline(.animation(paused:))`, `Canvas`, `fileImporter`, `@FocusState`, `focusable`, `focused`, `focusEffectDisabled`, `onKeyPress`, `NSEvent.addLocalMonitorForEvents(matching:)`, `url.startAccessingSecurityScopedResource()`, `url.stopAccessingSecurityScopedResource()`, `AVURLAsset`, `AVAudioPlayer`, `monospacedDigit` [Beatit](https://github.com/superkookai/Beatit)
+- **ToolbarTabBar for OS27** Stewart Lynch [ToolbarTabBar](https://github.com/superkookai/ToolbarTabBar)
 
 # Python FastAPI and AI
 

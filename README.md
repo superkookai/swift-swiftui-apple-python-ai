@@ -205,6 +205,7 @@
 - **CustomTabView** Stewart Lynch [CustomTabView](https://github.com/superkookai/EnumTabViews-CustomTabBars-EnumTabViewsComplete)
 - **Beatit** HWS+ `MusicUnderstanding`, `Timeline(.animation(paused:))`, `Canvas`, `fileImporter`, `@FocusState`, `focusable`, `focused`, `focusEffectDisabled`, `onKeyPress`, `NSEvent.addLocalMonitorForEvents(matching:)`, `url.startAccessingSecurityScopedResource()`, `url.stopAccessingSecurityScopedResource()`, `AVURLAsset`, `AVAudioPlayer`, `monospacedDigit` [Beatit](https://github.com/superkookai/Beatit)
 - **ToolbarTabBar for OS27** Stewart Lynch [ToolbarTabBar](https://github.com/superkookai/ToolbarTabBar)
+- **CustomBinding** Custom `Binding` with Optional Value by Stewart Lynch [CustomBinding](https://github.com/superkookai/CustomBindings-starterProject)
 
 # Python FastAPI and AI
 

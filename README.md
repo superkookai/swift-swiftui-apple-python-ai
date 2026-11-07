@@ -206,6 +206,7 @@
 - **Beatit** HWS+ `MusicUnderstanding`, `Timeline(.animation(paused:))`, `Canvas`, `fileImporter`, `@FocusState`, `focusable`, `focused`, `focusEffectDisabled`, `onKeyPress`, `NSEvent.addLocalMonitorForEvents(matching:)`, `url.startAccessingSecurityScopedResource()`, `url.stopAccessingSecurityScopedResource()`, `AVURLAsset`, `AVAudioPlayer`, `monospacedDigit` [Beatit](https://github.com/superkookai/Beatit)
 - **ToolbarTabBar for OS27** Stewart Lynch [ToolbarTabBar](https://github.com/superkookai/ToolbarTabBar)
 - **CustomBinding** Custom `Binding` with Optional Value by Stewart Lynch [CustomBinding](https://github.com/superkookai/CustomBindings-starterProject)
+- **Presently** HWS+ Select Contacts and make Notifications [Presently](https://github.com/superkookai/Presently)
 
 # Python FastAPI and AI
 

@@ -207,6 +207,7 @@
 - **ToolbarTabBar for OS27** Stewart Lynch [ToolbarTabBar](https://github.com/superkookai/ToolbarTabBar)
 - **CustomBinding** Custom `Binding` with Optional Value by Stewart Lynch [CustomBinding](https://github.com/superkookai/CustomBindings-starterProject)
 - **Presently** HWS+ Select Contacts and make Notifications [Presently](https://github.com/superkookai/Presently)
+- **SwiftUIArchitecture** SwiftUI Architecture (ViewModel,Model,Service) with Sendable handling (Swift Concurrency - @MainActor,actor,nonisolated,@concurrent) - to make Views/Previews/Testing easier. [SwiftUIArchitecture](https://github.com/superkookai/SwiftUIArchitect)
 
 # Python FastAPI and AI
 
